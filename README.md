@@ -30,6 +30,28 @@
 
       python3 DTFT_of_h\[n\].py
 
+## Results
+
+- x1[n] is the signal, first denoised and then deblurred.
+
+  <img src="https://raw.githubusercontent.com/ayushabrol13/Denoising-and-Deblurring/master/plots/x1%5Bn%5D.png">
+
+- x2[n] is the signal, first deblurred and then denoised.
+
+  <img src="https://raw.githubusercontent.com/ayushabrol13/Denoising-and-Deblurring/master/plots/x2%5Bn%5D.png">
+
+- Comparison between x1[n] and x2[n].
+
+  <img src="https://raw.githubusercontent.com/ayushabrol13/Denoising-and-Deblurring/master/plots/x1%5Bn%5D_x2%5Bn%5D_comparison.png">
+
+- DTFT of y[n]
+
+  <img src="https://raw.githubusercontent.com/ayushabrol13/Denoising-and-Deblurring/master/plots/DTFT_of_y%5Bn%5D.png">
+
+- DTFT of h[n]
+
+  <img src="https://raw.githubusercontent.com/ayushabrol13/Denoising-and-Deblurring/master/plots/DTFT_of_h%5Bn%5D.png">
+
 ## Contributors
 
 [Ayush Abrol](https://github.com/ayushabrol13)
